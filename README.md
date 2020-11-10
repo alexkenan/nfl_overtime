@@ -7,9 +7,9 @@ In the NFL, overtime rules are such that the first team that scores a touchdown 
 
 This program uses data (**overtimes_clean.xlsx**) from 135 NFL overtime games from 2012-2020. I found that:
 
-* Of the teams who **won** the coin toss, 51.9% won, 41.5% lost, and 6.7% tied
+* Of the teams who **won** the overtime coin toss, 51.9% won, 41.5% lost, and 6.7% tied
 
-* Of the teams who **lost** the coin toss, 41.5% won, 51.9% lost, and 6.7% tied
+* Of the teams who **lost** the overtime coin toss, 41.5% won, 51.9% lost, and 6.7% tied
 
 There is clearly an advantage to winning the coin toss, but I expected the ~52% of teams that won the coin toss won the game to be closer to 70%.
 

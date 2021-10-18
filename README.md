@@ -15,4 +15,4 @@ There is clearly an advantage to winning the coin toss, but I expected the ~52% 
 
 I initially used **data_acquisition.py** to get the data into spreadsheet form. The next day, all of the detailed search information went behind a paywall at [stathead.com](https://stathead.com). I may well be the last person to get information from the search before it went behind the paywall!
 
-Last updated: 2020-12-18
+Last updated: 2021-10-18
